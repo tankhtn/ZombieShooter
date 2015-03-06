@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Buildings>
+  <Building name="OldBridge">
+    <Position x="-2400" y="400" z="-200" />
+    <Rotation x="0" y="0.6" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="OldBridge">
+    <Position x="-3073.214" y="400" z="1994.44" />
+    <Rotation x="0" y="2.1" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="OldBridge">
+    <Position x="1500" y="400" z="180.5465" />
+    <Rotation x="0" y="-0.3" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="OldBridge">
+    <Position x="3800" y="400" z="4417.696" />
+    <Rotation x="0" y="2.4" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="OldBridge">
+    <Position x="-3283.131" y="400" z="-3213.116" />
+    <Rotation x="0" y="2.5" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="House_1">
+    <Position x="-705.0774" y="498.0393" z="419.4037" />
+    <Rotation x="0" y="1" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="House_1">
+    <Position x="-1898.992" y="498.0393" z="1423.97046" />
+    <Rotation x="0" y="1.5" z="0" />
+    <Scale x="1.5" y="1.5" z="1.5" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="1607.03052" y="498.0393" z="2016.241" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="0.5" y="0.5" z="0.5" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="1069.95081" y="498.0393" z="2390.58447" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="1953.52075" y="498.0393" z="2697.14844" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="0.7" y="0.7" z="0.7" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-845.1271" y="498.0393" z="2421.72534" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-4011.61182" y="498.0393" z="3931.36523" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-4904.62256" y="498.0393" z="2159.26685" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="House_1">
+    <Position x="-6377.57764" y="498.0393" z="2252.565" />
+    <Rotation x="0" y="2" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="House_1">
+    <Position x="-5498.249" y="498.0393" z="5396.12158" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="House_1">
+    <Position x="-2723.28857" y="498.0393" z="4525.39355" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-6006.58057" y="498.0393" z="3935.35352" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-712.1611" y="498.039551" z="2975.143" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="0.7" y="0.7" z="0.7" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="1843.676" y="498.039063" z="-1286.4231" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="2747.39722" y="498.0393" z="-1126.87012" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="2287.05273" y="498.0393" z="-2628.6626" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="2876.099" y="498.0393" z="-463.279541" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="0.4" y="0.4" z="0.4" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="783.398132" y="498.039063" z="-2878.95166" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="House_1">
+    <Position x="-1896.27075" y="498.039063" z="-4264.09326" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="House_1">
+    <Position x="-139.8584" y="498.0393" z="-3870.24023" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="House_1">
+    <Position x="-4946.409" y="498.0393" z="-2076.90649" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="House_1">
+    <Position x="-6267.519" y="498.0393" z="-1135.82373" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-3667.861" y="498.0393" z="-1364.70544" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-4323.91846" y="498.0393" z="-904.527466" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-4948.29639" y="498.0393" z="-459.415771" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-5923.68848" y="498.0393" z="692.698242" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-3654.28076" y="498.039063" z="-5662.494" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-1530.48315" y="498.039063" z="-5621.72168" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-487.624817" y="498.039063" z="-5662.1084" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-939.3065" y="498.039063" z="-5158.83" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="3114.20581" y="498.039063" z="-4678.31348" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="4172.7" y="498.039063" z="-5449.461" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="3691.02" y="498.039063" z="-2979.20874" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="3735.40186" y="498.039063" z="-1992.90369" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="4330.599" y="498.039063" z="-13.1013184" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="4544.4834" y="498.039063" z="878.26416" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="0.6" y="0.6" z="0.6" />
+  </Building>
+  <Building name="House_1">
+    <Position x="4308.988" y="498.039063" z="1591.12793" />
+    <Rotation x="0" y="4" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="House_1">
+    <Position x="5142.56738" y="498.039063" z="3359.2168" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="1577.82776" y="498.039063" z="4820.585" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="825.727051" y="498.039063" z="5406.462" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-499.09906" y="498.039063" z="6288.041" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-797.0486" y="498.039063" z="6576.666" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+  <Building name="Tree_1">
+    <Position x="-2560.65625" y="498.039063" z="6759.13965" />
+    <Rotation x="0" y="0" z="0" />
+    <Scale x="1" y="1" z="1" />
+  </Building>
+</Buildings>

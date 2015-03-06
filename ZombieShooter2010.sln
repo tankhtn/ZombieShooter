@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieShooter", "ZombieShooter\ZombieShooter\ZombieShooter.csproj", "{10BE973B-EA00-41F4-A827-C0149DF9CAFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieShooterContent", "ZombieShooter\ZombieShooterContent\ZombieShooterContent.contentproj", "{F56D39AB-83E7-468B-B094-CF540FECB0A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine", "GameEngine\GameEngine\GameEngine.csproj", "{C7E05D42-84ED-4831-A314-A67CB5021FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngineContent", "GameEngine\GameEngineContent\GameEngineContent.contentproj", "{26CF00E5-C605-4AE2-82A8-C3C36EC3E2A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLibrary", "CommonLibrary\CommonLibrary.csproj", "{D8B7F201-76B7-428E-98C8-29ADC93D0C0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinnedModelData", "SkinnedModelData\SkinnedModelData.csproj", "{30594B13-D197-4DA5-A65D-3FB429C7CB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinnedModelPipeline", "SkinnedModelPipeline\SkinnedModelPipeline.csproj", "{A14BC5BF-561C-4E52-93DE-E1EF2506DFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10BE973B-EA00-41F4-A827-C0149DF9CAFD}.Debug|x86.ActiveCfg = Debug|x86
+		{10BE973B-EA00-41F4-A827-C0149DF9CAFD}.Debug|x86.Build.0 = Debug|x86
+		{10BE973B-EA00-41F4-A827-C0149DF9CAFD}.Release|x86.ActiveCfg = Release|x86
+		{10BE973B-EA00-41F4-A827-C0149DF9CAFD}.Release|x86.Build.0 = Release|x86
+		{F56D39AB-83E7-468B-B094-CF540FECB0A5}.Debug|x86.ActiveCfg = Debug|x86
+		{F56D39AB-83E7-468B-B094-CF540FECB0A5}.Release|x86.ActiveCfg = Release|x86
+		{C7E05D42-84ED-4831-A314-A67CB5021FCD}.Debug|x86.ActiveCfg = Debug|x86
+		{C7E05D42-84ED-4831-A314-A67CB5021FCD}.Debug|x86.Build.0 = Debug|x86
+		{C7E05D42-84ED-4831-A314-A67CB5021FCD}.Release|x86.ActiveCfg = Release|x86
+		{C7E05D42-84ED-4831-A314-A67CB5021FCD}.Release|x86.Build.0 = Release|x86
+		{26CF00E5-C605-4AE2-82A8-C3C36EC3E2A4}.Debug|x86.ActiveCfg = Debug|x86
+		{26CF00E5-C605-4AE2-82A8-C3C36EC3E2A4}.Release|x86.ActiveCfg = Release|x86
+		{D8B7F201-76B7-428E-98C8-29ADC93D0C0E}.Debug|x86.ActiveCfg = Debug|x86
+		{D8B7F201-76B7-428E-98C8-29ADC93D0C0E}.Debug|x86.Build.0 = Debug|x86
+		{D8B7F201-76B7-428E-98C8-29ADC93D0C0E}.Release|x86.ActiveCfg = Release|x86
+		{D8B7F201-76B7-428E-98C8-29ADC93D0C0E}.Release|x86.Build.0 = Release|x86
+		{30594B13-D197-4DA5-A65D-3FB429C7CB72}.Debug|x86.ActiveCfg = Debug|x86
+		{30594B13-D197-4DA5-A65D-3FB429C7CB72}.Debug|x86.Build.0 = Debug|x86
+		{30594B13-D197-4DA5-A65D-3FB429C7CB72}.Release|x86.ActiveCfg = Release|x86
+		{30594B13-D197-4DA5-A65D-3FB429C7CB72}.Release|x86.Build.0 = Release|x86
+		{A14BC5BF-561C-4E52-93DE-E1EF2506DFAE}.Debug|x86.ActiveCfg = Debug|x86
+		{A14BC5BF-561C-4E52-93DE-E1EF2506DFAE}.Debug|x86.Build.0 = Debug|x86
+		{A14BC5BF-561C-4E52-93DE-E1EF2506DFAE}.Release|x86.ActiveCfg = Debug|x86
+		{A14BC5BF-561C-4E52-93DE-E1EF2506DFAE}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
